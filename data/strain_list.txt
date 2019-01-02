@@ -1,0 +1,36 @@
+sc01	AL1	Industrial	South American	1
+sc02	AL3-h	Industrial	South American	1
+sc03	CA1	Industrial	South American	1
+sc04	CBS7960	Industrial	South American	1
+sc05	CEN.PK113-7D	Lab	European	1
+sc06	CLIB215	Industrial	Oceanian	1
+sc07	CLIB324	Industrial	Southeast Asian	1
+sc08	CLIB382	Industrial	European	1
+sc09	DBVPG1373	Environmental	European	1
+sc10	DBVPG1788	Environmental	European	3
+sc11	DBVPG6044	Industrial	African	3
+sc12	DBVPG6765	Environmental	Southeast Asian	1
+sc13	EthanolRed	Industrial	European	2
+sc14	GDB135-h	Industrial	South American	1
+sc15	GDB325	Industrial	South American	1
+sc16	GDB379	Industrial	South American	1
+sc17	KKYS2-h	Industrial	Indian	2
+sc18	L.1528	Industrial	South American	1
+sc19	LU1250	Industrial	Southeast Asian	1
+sc20	NCYC110	Industrial	African	3
+sc21	PW5	Environmental	African	3
+sc22	RM11	Environmental	North American	1
+sc23	S288c	Lab	North American	1
+sc24	SK1	Lab	North American	3
+sc25	T7	Environmental	North American	2
+sc26	T73	Industrial	European	1
+sc27	UWOPS03-461.4	Environmental	Southeast Asian	3
+sc28	UWOPS05-217.3	Environmental	Southeast Asian	2
+sc29	UWOPS05-227.2	Environmental	Southeast Asian	2
+sc30	Y10	Environmental	Southeast Asian	2
+sc31	Y55	Lab	European	3
+sc32	YJM269	Environmental	European	2
+sc33	YJM975	Clinical	European	1
+sc34	YJM978	Clinical	European	1
+sc35	YPS128	Environmental	North American	2
+sc36	YPS606	Environmental	North American	2

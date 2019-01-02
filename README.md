@@ -1,1 +1,1 @@
-# yeast_36_strains
+This repository contains the data and code required to build 36 strain-specific yeast models used in the following publication: Kang et al, 2019 (in review).
